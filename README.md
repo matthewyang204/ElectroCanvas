@@ -53,7 +53,7 @@ To save:
 6. Open the Converter.url file.
 7. In the browser window, replace all the contents in the text box with the stuff you copied from the .txt file a moment ago.
 8. Click "Convert".
-9. Right-click on the image next to or under the text box, click "Save image" or "Save image as" depending on your OS and browser to save it to your computer's internal HDD or SSD.
+9. Right-click on the image next to or under the text box, click "Save image" or "Save image as" depending on your OS and browser to save it to your computer's internal HDD or SSD. Note: not sure if this works in Windows, but in macOS, you can drag-and-drop the image to your desktop, a Finder window, or a dock alias of a folder.
 
 ---------------
 Citing sources:
