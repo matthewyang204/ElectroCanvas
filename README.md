@@ -49,11 +49,16 @@ To save:
 3. Right-click on the big wide orange button and click on "Export".
 <img width="2560" alt="Screenshot 2024-01-19 at 5 18 04 PM" src="https://github.com/matthewyang204/ElectroCanvas/assets/141765903/3a6af91a-b141-4ef2-96fb-148750ff4db0">
 4. Allow it to save the file into your Downloads folder.
+
 5. Open the .txt file and copy all the contents.
+
 6. Open the Converter.url file.
-7. In the browser window, replace all the contents in the text box with the stuff you copied from the .txt file a moment ago.
-8. Click "Convert".
-9. Right-click on the image next to or under the text box, click "Save image" or "Save image as" depending on your OS and browser to save it to your computer's internal HDD or SSD. Note: not sure if this works in Windows, but in macOS, you can drag-and-drop the image to your desktop, a Finder window, or a dock alias of a folder.
+
+8. In the browser window, replace all the contents in the text box with the stuff you copied from the .txt file a moment ago.
+
+9. Click "Convert".
+
+10. Right-click on the image next to or under the text box, click "Save image" or "Save image as" depending on your OS and browser to save it to your computer's internal HDD or SSD. Note: not sure if this works in Windows, but in macOS, you can drag-and-drop the image to your desktop, a Finder window, or a dock alias of a folder.
 
 ---------------
 Citing sources:
