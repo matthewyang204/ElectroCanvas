@@ -55,4 +55,6 @@ To save:
 8. Click "Convert".
 9. Drag the image into a File Explorer window, Finder window, or the Desktop to save it to your computer's internal HDD or SSD.
 
+Citing sources:
+
 v1.0 of this app is basically a local version of Awesome Llama's Image Editor. His project can be found here: https://scratch.mit.edu/projects/552647396/
