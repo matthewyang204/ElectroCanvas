@@ -58,7 +58,7 @@ To save:
 
 9. Click "Convert".
 
-10. Right-click on the image next to or under the text box, click "Save image" or "Save image as" depending on your OS and browser to save it to your computer's internal HDD or SSD. Note: not sure if this works in Windows, but in macOS, you can drag-and-drop the image to your desktop, a Finder window, or a dock alias of a folder.
+10. Right-click on the image next to or under the text box, click "Save image" or "Save image as" depending on your OS and browser to save it to your computer's internal HDD or SSD. Note: not sure if this works in Windows, but in macOS, you can drag-and-drop the image to your desktop, a Finder window, or a dock alias of a folder. Note: If you're on a Chromebook, drag the Converter.url and copy "https://codepen.io/abdhass/full/jdRNdj" from the second line. You can then just paste that into a new tab.
 
 ---------------
 Citing sources:
